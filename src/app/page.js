@@ -1,6 +1,6 @@
 import React from 'react';
-import ProjectGallery from "../components/ProjectGallery";
+import AboutMePage from "../components/AboutMe";
 
 export default function Home() {
-  return <ProjectGallery />;
+  return <AboutMePage />;
 }

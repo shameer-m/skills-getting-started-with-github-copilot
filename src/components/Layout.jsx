@@ -14,7 +14,7 @@ const Layout = ({ children }) => (
         <div className="logo">My Portfolio</div>
         <ul className="nav-links">
           <li><Link href="/about">About Me</Link></li>
-          <li><Link href="/">Project Gallery</Link></li>
+          <li><Link href="/gallery">Project Gallery</Link></li>
           <li><Link href="/contact">Contact</Link></li>
         </ul>
       </nav>
