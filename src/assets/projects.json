@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Personal Portfolio Website",
+    "description": "A responsive portfolio website built with React and Vite, showcasing my projects and skills.",
+    "image": "/next.svg",
+    "link": "https://github.com/yourusername/portfolio"
+  },
+  {
+    "title": "Task Manager App",
+    "description": "A full-stack task management app with user authentication and real-time updates.",
+    "image": "/vercel.svg",
+    "link": "https://github.com/yourusername/task-manager"
+  },
+  {
+    "title": "Weather Dashboard",
+    "description": "A weather dashboard that fetches live data from a public API and displays forecasts.",
+    "image": "/vite.svg",
+    "link": "https://github.com/yourusername/weather-dashboard"
+  }
+]
